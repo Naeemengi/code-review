@@ -12,7 +12,6 @@ Things that you need to have before starting working with a project.
 2. Commit  and push the code from “android-recruitment-tasks-code_review.zip” to your main branch.
 3. Copy “code_review_pr.diff” to your root directory for that project.
 4. From that dir run “git apply code_review_pr.diff”.
-5. Remove the “code_review_pr.diff” file.
 6. Make a new feature branch from the main one.
 7. From the same dir call “git add .” .
 8. Commit and push those changes to your feature branch.
